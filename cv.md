@@ -34,3 +34,38 @@ First of all, I want to gain new knowledge, skills and experience. I am sure the
 - Adobe Photoshop - good;
 - Adobe Illustrator - good;
 - Adobe Premiere - basic;
+
+## Code examples
+
+Task: Write array sorting by choice. The array is written to the variable numbers.
+Sort the values in the array in ascending order, from the smallest value to the largest.
+
+```
+let numbers = [3, 5, 15, 6, 2, 1];
+
+for (let i = 0; i <= numbers.length - 1; i++){
+  let min = i;
+  for (let j = i + 1; j < numbers.length; j++){
+    if (numbers[j] < numbers[min]){
+      min = j;
+    } 
+  }
+  let swap = numbers[min];
+  numbers[min] = numbers[i];
+  numbers[i] = swap;
+}
+
+console.log(numbers);
+```
+
+A few of my projects completed earlier:
+
+- 2021, [Vertical-slider](https://rolling-scopes-school.github.io/kuvsh1noffpavel-JSFEPRESCHOOL/vertical_slider/);
+- 2021, [Clock](https://rolling-scopes-school.github.io/kuvsh1noffpavel-JSFEPRESCHOOL/js_clock/
+);
+- 2021, [CSS-memslider](https://kuvsh1noffpavel.github.io/cssMemSlider/cssMemSlider/index.html);
+- 2021, [Momentum](https://rolling-scopes-school.github.io/kuvsh1noffpavel-JSFE2021Q3/momentum/#en);
+- 2022, [Audioplayer](https://rolling-scopes-school.github.io/pavel-kuvshinov-JSFEPRESCHOOL/audio-player/);
+- 2022, [Gem-puzzle](https://rolling-scopes-school.github.io/pavel-kuvshinov-JSFE2022Q3/gem-puzzle/);
+- 2022, [Song bird](https://rolling-scopes-school.github.io/pavel-kuvshinov-JSFE2022Q3/src/);
+- 2022, [online-zoo](https://rolling-scopes-school.github.io/pavel-kuvshinov-JSFE2022Q3/online-zoo/pages/main/index.html);
