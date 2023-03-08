@@ -69,3 +69,20 @@ A few of my projects completed earlier:
 - 2022, [Gem-puzzle](https://rolling-scopes-school.github.io/pavel-kuvshinov-JSFE2022Q3/gem-puzzle/);
 - 2022, [Song bird](https://rolling-scopes-school.github.io/pavel-kuvshinov-JSFE2022Q3/src/);
 - 2022, [online-zoo](https://rolling-scopes-school.github.io/pavel-kuvshinov-JSFE2022Q3/online-zoo/pages/main/index.html);
+
+## Experience
+
+- 2019, HTML Basic, [Codecademy](https://www.codecademy.com/profiles/PavelKuvsh1nov/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7);
+- 2019, CSS Basic, [Codecademy](https://www.codecademy.com/profiles/PavelKuvsh1nov/certificates/9a5bb1fc45b4281af1fffec93b0aaf05);
+- 2019, Command line, [Codecademy](https://www.codecademy.com/profiles/PavelKuvsh1nov/certificates/c87ba0541f8be78bc2f4ba1128233f6f);
+- 2019, GIT, [Codecademy](https://www.codecademy.com/profiles/PavelKuvsh1nov/certificates/a8ab218d5950c29861635cc0bf12fd13);
+
+## Education
+
+Vehicle Maintenance, Belarusian-Russian University, 2012.
+
+## Languages
+
+- Russian;
+- Belorussian;
+- English (A2+).
