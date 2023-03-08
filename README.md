@@ -1,0 +1,1 @@
+https://Pavel-Kuvshinov.github.io/rsschool-cv/
